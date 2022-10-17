@@ -18,7 +18,7 @@
  
 <div> 
 
-  <a href="[https://www.linkedin.com/in/dhomimonteiro](https://www.linkedin.com/in/dhom%C3%AAnica-monteiro-11a27824a/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="www.linkedin.com/in/dhomênica-monteiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   
 
